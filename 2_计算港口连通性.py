@@ -1,3 +1,5 @@
+#在这一步中根据上述生成的船舶航迹文件进行读取和计算，得到每个港口能直达的国家数量，即得到港口连通性指标
+
 import csv
 from collections import defaultdict
 
